@@ -2,7 +2,7 @@
 
 Individual course project, EE5311 Digital IC Design, IIT Madras (Oct – Nov 2026)
 
-📄 **[Read the full report (PDF)](report.pdf)**
+📄 **[Read the full report (PDF)](Report.pdf)**
 
 ## Architecture
 
