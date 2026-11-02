@@ -18,8 +18,8 @@ Schematic (xschem) → simulation (ngspice) → layout (Magic, KLayout) → DRC/
 
 | | Critical-path delay |
 |---|---|
-| Pre-layout | _fill in_ |
-| Post-layout | _fill in_ |
+| Pre-layout | 2.74ns |
+| Post-layout | 3.47ns |
 
 DRC: _clean_ · LVS: _clean_
 
